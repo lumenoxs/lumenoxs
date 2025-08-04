@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**lumenoxs/lumenoxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alex**, a passionate coder and young tech enthusiast.
 
-Here are some ideas to get you started:
+---
+## 🛠️ Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+- Java
+- Node.js
+- C/C++
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 Projects
+(to be updated)
+
+---
+## Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lumenoxs&layout=compact&langs_count=10&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=lumenoxs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues)
