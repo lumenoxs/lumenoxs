@@ -19,5 +19,5 @@ I'm **Alex**, a passionate coder and young tech enthusiast.
 
 ---
 ## Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lumenoxs&count_private=true&theme=transparent&include_all_commits=true&layout=donut&langs_count=20&size_weight=0.7&count_weight=0.3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lumenoxs&theme=transparent&layout=donut&langs_count=20&size_weight=0.7&count_weight=0.3)
 ![](https://github-readme-stats.vercel.app/api?username=lumenoxs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues)
