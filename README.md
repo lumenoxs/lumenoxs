@@ -18,10 +18,10 @@ I do not know TypeScript, any repo with typescript is not mine and likely a fork
 ---
 ## 🚀 Projects
 - [True Vanilla Network Discord Bot](https://github.com/lumenoxs/DISCORDBOT)
+- [RPiMine - A Discord Bot Minecraft Server Scanner](https://github.com/lumenoxs/RPiMine)
 - [LumenXs - The Gaming Site](https://github.com/lumenoxs/lumenxs)
 - [Lumenoxs - The Gaming Site (archived, check LumenXs)](https://github.com/lumenoxs/Lumenoxs-Gaming-Site)
 - [Velocity Persistent (updated and modified fork)](https://github.com/lumenoxs/VelocityPersistent)
-- [RPiMine - A Discord Bot Minecraft Server Scanner](https://github.com/lumenoxs/RPiMine)
 
 To be updated!
 
