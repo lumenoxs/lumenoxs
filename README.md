@@ -13,7 +13,7 @@ I'm **Alex**, a passionate coder and young tech enthusiast.
 - C/C++
 - SQL
 
-I do not know Type
+I do not know TypeScript, any repo with typescript is not mine and likely a fork
 
 ---
 ## 🚀 Projects
