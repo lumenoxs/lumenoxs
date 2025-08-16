@@ -4,7 +4,7 @@ I'm **Alex**, a passionate coder and young tech enthusiast.
 
 ---
 ## 🛠️ Languages
-- Python
+- Python (I currently private all my python repos, as most of them are personal or under dev)
 - JavaScript
 - HTML
 - CSS
@@ -15,7 +15,12 @@ I'm **Alex**, a passionate coder and young tech enthusiast.
 
 ---
 ## 🚀 Projects
-(to be updated)
+[True Vanilla Network Discord Bot](https://github.com/lumenoxs/DISCORDBOT)
+[LumenXs - The Gaming Site](https://github.com/lumenoxs/lumenxs)
+[Lumenoxs - The Gaming Site (archived, check LumenXs)](https://github.com/lumenoxs/Lumenoxs-Gaming-Site)
+[Velocity Persistent (updated and modified fork)](https://github.com/lumenoxs/VelocityPersistent)
+
+To be updated!
 
 ---
 ## Stats:
