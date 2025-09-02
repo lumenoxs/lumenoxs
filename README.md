@@ -4,7 +4,7 @@ I'm **Alex**, a passionate coder and young tech enthusiast.
 
 ---
 ## 🛠️ Languages
-- Python (I currently private all my python repos, as most of them are personal or under dev)
+- Python (I currently private most of my python repos, as most of them aren't designed to be public (api keys passwords etc.))
 - JavaScript
 - HTML
 - CSS
