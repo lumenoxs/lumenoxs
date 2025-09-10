@@ -17,10 +17,11 @@ I do not know TypeScript, any repo with typescript is not mine and likely a fork
 
 ---
 ## 🚀 Projects
-- [True Vanilla Network Discord Bot](https://github.com/lumenoxs/DISCORDBOT)
-- [RPiMine - A Discord Bot Minecraft Server Scanner](https://github.com/lumenoxs/RPiMine)
+- [True Vanilla Community Discord Bot](https://github.com/lumenoxs/TrueVanillaCommunityDiscordBot)
+- [TVC-Arena - A custom plugin made for the True Vanilla Community arena server](https://github.com/lumenoxs/TrueVanillaCommunity-ArenaPlugin)
 - [LumenXs - The Gaming Site](https://github.com/lumenoxs/lumenxs)
 - [Lumenoxs - The Gaming Site (archived, check LumenXs)](https://github.com/lumenoxs/Lumenoxs-Gaming-Site)
+- [RPiMine - A Discord Bot Minecraft Server Scanner](https://github.com/lumenoxs/RPiMine)
 - [Velocity Persistent (updated and modified fork)](https://github.com/lumenoxs/VelocityPersistent)
 
 To be updated!
