@@ -4,7 +4,8 @@ I'm **RPiCPU**, also known as Blue Lightning, a passionate coder and young tech 
 
 ---
 ## 🛠️ Languages
-- Python (I currently private most of my python repos, as most of them aren't designed to be public (api keys passwords etc.))
+(in order of experience & skill)
+- Python
 - Java
 - HTML
 - JavaScript
@@ -15,14 +16,14 @@ I'm **RPiCPU**, also known as Blue Lightning, a passionate coder and young tech 
 
 ---
 ## 🚀 Projects
-- [True Vanilla Community Discord Bot](https://github.com/lumenoxs/TrueVanillaCommunityDiscordBot)
-- [TVC-Arena - A custom plugin made for the True Vanilla Community arena server](https://github.com/lumenoxs/TrueVanillaCommunity-ArenaPlugin)
-- [LumenXs - The Gaming Site](https://github.com/lumenoxs/lumenxs)
-- [Lumenoxs - The Gaming Site (archived, check LumenXs)](https://github.com/lumenoxs/Lumenoxs-Gaming-Site)
-- [RPiMine - A Discord Bot Minecraft Server Scanner](https://github.com/lumenoxs/RPiMine)
-- [Velocity Persistent (updated and modified fork)](https://github.com/lumenoxs/VelocityPersistent)
+- [TVC-Proxy](https://github.com/lumenoxs/TVC-Arena) - Chat filters, proxy wide bans, commands (for the discord, rules, proxy wide list of players and to join servers), custom kick messages, forced hosts and (in beta) player stats
+- [TVC-Backend](https://github.com/lumenoxs/TVC-Arena) - Currently only has anti dupe checking logic
+- [True Vanilla Community Discord Bot](https://github.com/lumenoxs/TVC-DiscordBot)
+- [TVC-Arena](https://github.com/lumenoxs/TVC-Arena) - Plugin for an arena Minecraft server, very old and broken; will be updated and finished soon
+- [LumenXs](https://github.com/lumenoxs/lumenxs) - Gaming site
+- [Lumenoxs](https://github.com/lumenoxs/Lumenoxs-Gaming-Site) - Gaming site (archived, check LumenXs)
 
 ---
 ## Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lumenoxs&theme=transparent&layout=donut&langs_count=20&size_weight=0.3&count_weight=0.7)
-![](https://github-readme-stats.vercel.app/api?username=lumenoxs&show_icons=true&theme=transparent&include_all_commits=true&hide=issues)
+![](https://github-readme-stats-fast.vercel.app/api?username=lumenoxs&show_icons=true&theme=github_dark)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumenoxs&layout=compact&theme=github_dark)
