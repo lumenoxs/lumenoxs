@@ -26,4 +26,5 @@ I'm **RPiCPU**, also known as Blue Lightning, a passionate coder and young tech 
 ---
 ## Stats:
 ![](https://github-readme-stats-fast.vercel.app/api?username=lumenoxs&show_icons=true&theme=github_dark)
+
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumenoxs&layout=compact&theme=github_dark)
