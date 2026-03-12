@@ -16,8 +16,8 @@ I'm **RPiCPU**, also known as Blue Lightning, a passionate coder and young tech 
 
 ---
 ## 🚀 Projects
-- [TVC-Proxy](https://github.com/lumenoxs/TVC-Arena) - Chat filters, proxy wide bans, commands (for the discord, rules, proxy wide list of players and to join servers), custom kick messages, forced hosts and (in beta) player stats
-- [TVC-Backend](https://github.com/lumenoxs/TVC-Arena) - Currently only has anti dupe checking logic
+- [TVC-Proxy](https://github.com/lumenoxs/TVC-Proxy) - Chat filters, proxy wide bans, commands (for the discord, rules, proxy wide list of players and to join servers), custom kick messages, forced hosts and (in beta) player stats
+- [TVC-Backend](https://github.com/lumenoxs/TVC-Backend) - Currently only has anti dupe checking logic
 - [True Vanilla Community Discord Bot](https://github.com/lumenoxs/TVC-DiscordBot)
 - [TVC-Arena](https://github.com/lumenoxs/TVC-Arena) - Plugin for an arena Minecraft server, very old and broken; will be updated and finished soon
 - [LumenXs](https://github.com/lumenoxs/lumenxs) - Gaming site
